@@ -10,3 +10,9 @@
 ### Animation
 https://visualgo.net/en/sorting  
 https://www.toptal.com/developers/sorting-algorithms
+
+### BigO Cheatsheet
+https://www.bigocheatsheet.com/
+
+### Dancing Algorithms
+https://www.youtube.com/watch?v=CmPA7zE8mx0&list=PLuE79vNc5Wi6q34LsQcaJ7ISQ8uOyMaL_&ab_channel=AlgoRythmics
